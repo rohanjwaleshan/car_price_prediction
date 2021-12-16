@@ -7,7 +7,7 @@
 * Exploratory data analysis consisted of checking for strong linear association between features and the response through correlation heatmap and scatterplots.
 * Model assumptions for multiple linear regression were checked and cross validation was performed for the decision tree model to assess generalization.
 
-## Code and Resources Used
+## Code
 **Python Version**: 3.8.8<br />
 **Packages**: numpy, pandas, matplotlib, seaborn, sklearn, statsmodels, scipy<br />
 **Requirements**: `pip install -r requirements.txt`
