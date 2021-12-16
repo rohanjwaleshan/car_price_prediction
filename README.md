@@ -9,4 +9,5 @@
 
 ## Code and Resources Used
 **Python Version**: 3.8.8<br />
-**Packages**: numpy, pandas, matplotlib, seaborn, sklearn, statsmodels, scipy
+**Packages**: numpy, pandas, matplotlib, seaborn, sklearn, statsmodels, scipy<br />
+**Requirements**: `pip install -r requirements.txt`
