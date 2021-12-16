@@ -44,3 +44,8 @@ The dataset required cleaning before it could be used in regression models. The 
 * name and owner columns were removed (were not used in models)
 
 ![first 5 rows of cleaned dataset](cleaned_dataset.png)
+
+## EDA
+I investigated the linear relationships of the features with the response variable (selling_price) to see if any features would potentially contribute significantly in a MLR model. Below are some visualizations I used to explore linear relationships.
+
+
