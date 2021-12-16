@@ -27,3 +27,5 @@ Dataset from [Kaggle](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-car
 * **max_power** - max power of engine (bhp)
 * **torque** - car's torque
 * **seats** - number of seats in the car
+
+![first 5 rows of dataset](dataset.png)
