@@ -13,7 +13,7 @@
 **Requirements**: `pip install -r requirements.txt`
 
 ## Data
-Dataset from [Kaggle](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=Car+details+v3.csv) consists of information about used cars from CarDekho (a website where users can sell or purchase cars in India).
+Dataset from [Kaggle](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=Car+details+v3.csv) consists of information about used cars (7906 cars) from CarDekho (a website where users can sell or purchase cars in India).
 * **name** - name of the car
 * **year** - year the car was purchased
 * **selling_price** - the car's selling price
