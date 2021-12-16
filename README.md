@@ -43,3 +43,4 @@ The dataset required cleaning before it could be used in regression models. The 
 * car with unreasonably high mileage was removed
 * name and owner columns were removed (were not used in models)
 
+![first 5 rows of cleaned dataset](cleaned_dataset.png)
