@@ -11,3 +11,19 @@
 **Python Version**: 3.8.8<br />
 **Packages**: numpy, pandas, matplotlib, seaborn, sklearn, statsmodels, scipy<br />
 **Requirements**: `pip install -r requirements.txt`
+
+## Data
+Dataset from [Kaggle](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=Car+details+v3.csv) consists of information about used cars from CarDekho (a website where users can sell or purchase cars in India).
+* **name** - name of the car
+* **year** - year the car was purchased
+* **selling_price** - the car's selling price
+* **km_driven** - number kilometers the car has driven
+* **fuel** - fuel type (Diesel, Petrol, CNG, LPG)
+* **seller_type** - whether the car was sold by an individual or dealer
+* **transmission** - the car's gear transmission (Automatic/Manual)
+* **owner** - number of previous owners
+* **mileage** - mileage of the car
+* **engine** - car's engine capacity
+* **max_power** - max power of engine (bhp)
+* **torque** - car's torque
+* **seats** - number of seats in the car
