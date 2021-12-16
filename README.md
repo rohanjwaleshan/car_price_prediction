@@ -53,5 +53,7 @@ I investigated the linear relationships of the features with the response variab
 ## Model Development
 For the MLR model it was necessary to check all assumptions before considering the model for deployment. The MLR model rejected both homoscedasticity and normality of errors with and without log/square root transformations of features and log transformation of the response. Below are the plots used to confirm homoscedasticity and normality of errors after log transfomring the response.
 
+![](homoscedasticity.png)
+
 
 
