@@ -6,3 +6,5 @@
 * Formatted categorical features into useable features (Units for mileage, engine, and max_power were removed and then converted to numerical data. The name of each car was converted to the country it orginated from.) for multiple linear regression model and decision tree model
 * Exploratory data analysis consisted of checking for strong linear association between features and the response through correlation heatmap and scatterplots.
 * Model assumptions for multiple linear regression were checked and cross validation was performed for the decision tree model to assess generalization.
+
+## Code and Resources Used
