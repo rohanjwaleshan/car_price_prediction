@@ -19,7 +19,7 @@ Dataset from [Kaggle](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-car
 * **selling_price** - the car's selling price
 * **km_driven** - number kilometers the car has driven
 * **fuel** - fuel type (Diesel, Petrol, CNG, LPG)
-* **seller_type** - whether the car was sold by an individual or dealer                 ![first 5 rows of dataset](dataset.png)
+* **seller_type** - whether the car was sold by an individual or dealer                
 * **transmission** - the car's gear transmission (Automatic/Manual)
 * **owner** - number of previous owners
 * **mileage** - mileage of the car
@@ -27,4 +27,6 @@ Dataset from [Kaggle](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-car
 * **max_power** - max power of engine (bhp)
 * **torque** - car's torque
 * **seats** - number of seats in the car
+
+![first 5 rows of dataset](dataset.png)
 
