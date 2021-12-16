@@ -8,3 +8,4 @@
 * Model assumptions for multiple linear regression were checked and cross validation was performed for the decision tree model to assess generalization.
 
 ## Code and Resources Used
+**Python Version**: 3.8.8
