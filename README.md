@@ -9,3 +9,4 @@
 
 ## Code and Resources Used
 **Python Version**: 3.8.8
+**Packages**: numpy, pandas, matplotlib, seaborn, sklearn, statsmodels, scipy
