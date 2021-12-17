@@ -86,11 +86,26 @@ Based on the results for the MLR model and the decision tree model, the decision
 * [https://www.youtube.com/watch?v=Pbadcqnyzi0](https://www.youtube.com/watch?v=Pbadcqnyzi0)
 * [https://stackoverflow.com/questions/35876508/evaluate-multiple-scores-on-sklearn-cross-val-score](https://stackoverflow.com/questions/35876508/evaluate-multiple-scores-on-sklearn-cross-val-score)
 * [https://www.geeksforgeeks.org/plotting-multiple-bar-charts-using-matplotlib-in-python/](https://www.geeksforgeeks.org/plotting-multiple-bar-charts-using-matplotlib-in-python/)
-* [https://www.youtube.com/watch?v=yJcYu_fqXdQ](https://www.youtube.com/watch?v=yJcYu_fqXdQ)<br />
+* [https://www.youtube.com/watch?v=yJcYu_fqXdQ](https://www.youtube.com/watch?v=yJcYu_fqXdQ)
+* [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)<br />
 
 **Research**:
 * [https://www.xe.com/currencyconverter/convert/?Amount=1&From=INR&To=USD](https://www.xe.com/currencyconverter/convert/?Amount=1&From=INR&To=USD)
 * [https://www.autoblog.com/2009/10/03/million-mile-cars/](https://www.autoblog.com/2009/10/03/million-mile-cars/)
+* [https://www.nytimes.com/2007/06/03/automobiles/03MILES.html](https://www.nytimes.com/2007/06/03/automobiles/03MILES.html)
+* [https://www.mpgtolitres.com/kml-to-mpg](https://www.mpgtolitres.com/kml-to-mpg)
+* [https://www.unitconverters.net/length/km-to-miles.htm](https://www.unitconverters.net/length/km-to-miles.htm)
+* [https://www.evanshalshaw.com/blog/top-10-most-economical-used-petrol-cars/](https://www.evanshalshaw.com/blog/top-10-most-economical-used-petrol-cars/)
+* [https://www.evanshalshaw.com/blog/top-10-most-economical-diesel-cars/](https://www.evanshalshaw.com/blog/top-10-most-economical-diesel-cars/)
+* [https://www.encycarpedia.com/top/least-powerful-cars](https://www.encycarpedia.com/top/least-powerful-cars)
+* [https://www.autosnout.com/Car-Power-List.php](https://www.autosnout.com/Car-Power-List.php)
+* [https://www.financialexpress.com/auto/gallery/prices-of-popular-cars-in-india-vs-us-why-and-how-much-are-we-overpaying/photos/767007/](https://www.financialexpress.com/auto/gallery/prices-of-popular-cars-in-india-vs-us-why-and-how-much-are-we-overpaying/photos/767007/)
+* [https://auto.hindustantimes.com/auto/cars/maruti-celerio-most-fuel-efficient-petrol-car-may-offer-26-kmpl-mileage-41636081009925.html](https://auto.hindustantimes.com/auto/cars/maruti-celerio-most-fuel-efficient-petrol-car-may-offer-26-kmpl-mileage-41636081009925.html)
+* [https://www.autocarindia.com/car-news/top-10-fuel-efficient-diesel-cars-in-india-395465](https://www.autocarindia.com/car-news/top-10-fuel-efficient-diesel-cars-in-india-395465)
+* [https://www.holmesvolvocars.com/volvo-xc90-hybrid-mpg.htm](https://www.holmesvolvocars.com/volvo-xc90-hybrid-mpg.htm)
+
+**Formatting Github Repo**
+* [https://www.youtube.com/watch?v=agHKuUoMwvY](https://www.youtube.com/watch?v=agHKuUoMwvY)
 
 
 
