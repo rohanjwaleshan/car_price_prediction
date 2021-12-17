@@ -73,10 +73,20 @@ The decision tree model with ten fold cross validation outputted the following r
 ![](decision_tree_r_squared.png) ![](decision_tree_rmse.png)
 
 ## Conclusion
-Based on the results for the MLR model and the decision tree model, the decision tree is the better model to use to accurately predict a car's selling price. The next steps would be to deploy the decision tree model as a web app using flask.
+Based on the results for the MLR model and the decision tree model, the decision tree is the better model to use to accurately predict a car's selling price. The next steps would be to deploy the decision tree model through a web app using flask.
 
 ## Resources
-
+**Code Related**:
+* [https://pandas.pydata.org/pandas-docs/stable/reference/index.html](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)
+* [https://matplotlib.org/stable/api/index.html](https://matplotlib.org/stable/api/index.html)
+* [https://seaborn.pydata.org/api.html](https://seaborn.pydata.org/api.html)
+* [https://scikit-learn.org/stable/modules/classes.html](https://scikit-learn.org/stable/modules/classes.html)
+* [https://www.kite.com/python/answers/how-to-replace-elements-in-a-numpy-array-if-a-condition-is-met-in-python](https://www.kite.com/python/answers/how-to-replace-elements-in-a-numpy-array-if-a-condition-is-met-in-python)
+* [https://stackoverflow.com/questions/50733014/linear-regression-with-dummy-categorical-variables](https://stackoverflow.com/questions/50733014/linear-regression-with-dummy-categorical-variables)
+* [https://www.youtube.com/watch?v=Pbadcqnyzi0](https://www.youtube.com/watch?v=Pbadcqnyzi0)
+* [https://stackoverflow.com/questions/35876508/evaluate-multiple-scores-on-sklearn-cross-val-score](https://stackoverflow.com/questions/35876508/evaluate-multiple-scores-on-sklearn-cross-val-score)
+* [https://www.geeksforgeeks.org/plotting-multiple-bar-charts-using-matplotlib-in-python/](https://www.geeksforgeeks.org/plotting-multiple-bar-charts-using-matplotlib-in-python/)
+*[https://www.youtube.com/watch?v=yJcYu_fqXdQ](https://www.youtube.com/watch?v=yJcYu_fqXdQ)
 
 
 
