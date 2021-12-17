@@ -28,7 +28,7 @@ Dataset from [Kaggle](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-car
 * **torque** - car's torque
 * **seats** - number of seats in the car
 
-![first 5 rows of dataset](dataset.png)
+![first 5 rows of dataset](images/dataset.png)
 
 ## Data Cleaning/Formatting Variables
 The dataset required cleaning before it could be used in regression models. The following changes to the dataset were made:
@@ -43,19 +43,19 @@ The dataset required cleaning before it could be used in regression models. The 
 * car with unreasonably high mileage was removed
 * name and owner columns were removed (were not used in models)
 
-![first 5 rows of cleaned dataset](cleaned_dataset.png)
+![first 5 rows of cleaned dataset](images/cleaned_dataset.png)
 
 ## EDA
 I investigated the linear relationships of the features with the response variable (selling_price) to see if any features would potentially contribute significantly in a MLR model. Below are some visualizations I used to explore linear relationships.
 
-![](images/pairplot_selling_price.png) ![](correlation_heatmap.png)    ![](scatterplot_max_power_selling_price_transmission.png)
+![](images/pairplot_selling_price.png) ![](images/correlation_heatmap.png)    ![](images/scatterplot_max_power_selling_price_transmission.png)
 
 ## Model Development
 For the first model I trained a **MLR** and split the data into train and test sets with a test size of 25%.
 
 It was necessary to check all assumptions before considering the MLR model for deployment. The MLR model rejected both homoscedasticity and normality of errors with and without log/square root transformations of features and log transformation of the response. Below are the plots used to confirm homoscedasticity and normality of errors after log transfomring the response.
 
-![](homoscedasticity.png) ![](normality_of_errors.png)
+![](images/homoscedasticity.png) ![](images/normality_of_errors.png)
 
 Due to essential assumptions for MLR being rejected I decided to train a non parametric model such as the **decision tree**.
 
@@ -70,7 +70,7 @@ The decision tree model with ten fold cross validation outputted the following r
 * **train set rmse** = 198821.91
 * **test set rmse** = 234541.86
 
-![](decision_tree_r_squared.png) ![](decision_tree_rmse.png)
+![](images/decision_tree_r_squared.png) ![](images/decision_tree_rmse.png)
 
 ## Conclusion
 Based on the results for the MLR model and the decision tree model, the decision tree is the better model to use to accurately predict a car's selling price. The next steps would be to deploy the decision tree model through a web app using flask.
