@@ -86,7 +86,7 @@ Based on the results for the MLR model and the decision tree model, the decision
 * [https://www.youtube.com/watch?v=Pbadcqnyzi0](https://www.youtube.com/watch?v=Pbadcqnyzi0)
 * [https://stackoverflow.com/questions/35876508/evaluate-multiple-scores-on-sklearn-cross-val-score](https://stackoverflow.com/questions/35876508/evaluate-multiple-scores-on-sklearn-cross-val-score)
 * [https://www.geeksforgeeks.org/plotting-multiple-bar-charts-using-matplotlib-in-python/](https://www.geeksforgeeks.org/plotting-multiple-bar-charts-using-matplotlib-in-python/)
-* [https://www.youtube.com/watch?v=yJcYu_fqXdQ](https://www.youtube.com/watch?v=yJcYu_fqXdQ)<br />
+* [https://www.youtube.com/watch?v=yJcYu_fqXdQ](https://www.youtube.com/watch?v=yJcYu_fqXdQ)<br /><br />
 **Research**:
 * [https://www.xe.com/currencyconverter/convert/?Amount=1&From=INR&To=USD](https://www.xe.com/currencyconverter/convert/?Amount=1&From=INR&To=USD)
 * [https://www.autoblog.com/2009/10/03/million-mile-cars/](https://www.autoblog.com/2009/10/03/million-mile-cars/)
