@@ -77,7 +77,7 @@ Based on the results for the MLR model and the decision tree model, the decision
 ## Resources
 **Data**:
 * [https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=Car+details+v3.csv](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=Car+details+v3.csv)
-* 
+
 **Code Related**:
 * [https://pandas.pydata.org/pandas-docs/stable/reference/index.html](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)
 * [https://matplotlib.org/stable/api/index.html](https://matplotlib.org/stable/api/index.html)
@@ -89,7 +89,7 @@ Based on the results for the MLR model and the decision tree model, the decision
 * [https://stackoverflow.com/questions/35876508/evaluate-multiple-scores-on-sklearn-cross-val-score](https://stackoverflow.com/questions/35876508/evaluate-multiple-scores-on-sklearn-cross-val-score)
 * [https://www.geeksforgeeks.org/plotting-multiple-bar-charts-using-matplotlib-in-python/](https://www.geeksforgeeks.org/plotting-multiple-bar-charts-using-matplotlib-in-python/)
 * [https://www.youtube.com/watch?v=yJcYu_fqXdQ](https://www.youtube.com/watch?v=yJcYu_fqXdQ)
-* [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)<br />
+* [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
 
 **Research**:
 * [https://www.xe.com/currencyconverter/convert/?Amount=1&From=INR&To=USD](https://www.xe.com/currencyconverter/convert/?Amount=1&From=INR&To=USD)
