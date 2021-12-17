@@ -67,8 +67,8 @@ Since the MLR model's assumptions were rejected its goodness of fit measures wer
 The decision tree model with ten fold cross validation outputted the following results (values are averages of ten folds):
 * **train set r-squared** = 0.94
 * **test set r-squared** = 0.91
-* **train set rmse** = 198821.91
-* **test set rmse** = 234541.86
+* **train set rmse** = 198760.16
+* **test set rmse** = 234266.62
 
 ![](images/decision_tree_r_squared.png) ![](images/decision_tree_rmse.png)
 
