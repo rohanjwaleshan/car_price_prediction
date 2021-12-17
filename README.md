@@ -70,7 +70,7 @@ The decision tree model with ten fold cross validation outputted the following r
 * train set rmse = 198821.91
 * test set rmse = 234541.86
 
-
+![](decision_tree_r_squared.png)
 
 
 
