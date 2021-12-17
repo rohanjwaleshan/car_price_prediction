@@ -72,7 +72,10 @@ The decision tree model with ten fold cross validation outputted the following r
 
 ![](decision_tree_r_squared.png) ![](decision_tree_rmse.png)
 
+## Conclusion
+Based on the results for the MLR model and the decision tree model, the decision tree is the better model to use to accurately predict a car's selling price. The next steps would be to deploy the decision tree model as a web app using flask.
 
+## Resources
 
 
 
