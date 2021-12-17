@@ -39,7 +39,6 @@ The dataset required cleaning before it could be used in regression models. The 
 * engine was converted to numeric variable (CC was removed from string and then converted to integer)
 * max_power was converted to numeric variable (bhp was removed from string and then converted to float)
 * torque column was removed (was difficult to clean)
-* cars with greater than 804672 km (500000 miles) driven were removed (suspiciously high)
 * car with unreasonably high mileage was removed
 * name and owner columns were removed (were not used in models)
 
