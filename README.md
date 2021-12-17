@@ -50,7 +50,7 @@ I investigated the linear relationships of the features with the response variab
 ![](images/pairplot_selling_price.png) ![](images/correlation_heatmap.png)    ![](images/scatterplot_max_power_selling_price_transmission.png)
 
 ## Model Development
-For the first model I trained a **MLR** and split the data into train and test sets with a test size of 25%.
+For the first model I trained a **MLR** model and split the data into train and test sets with a test size of 25%.
 
 It was necessary to check all assumptions before considering the MLR model for deployment. The MLR model rejected both homoscedasticity and normality of errors with and without log/square root transformations of features and log transformation of the response. Below are the plots used to confirm homoscedasticity and normality of errors after log transfomring the response.
 
