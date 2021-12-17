@@ -35,9 +35,9 @@ The dataset required cleaning before it could be used in regression models. The 
 * Rows with missing values were dropped (222 rows)
 * name was formatted to origin (country car originated from, Asia/Europe/North America)
 * fuel was formatted to a variable with two categories (Petrol/Diesel)
-* mileage was converted to numeric variable (kmpl was removed from string and then converted to float)
-* engine was converted to numeric variable (CC was removed from string and then converted to integer)
-* max_power was converted to numeric variable (bhp was removed from string and then converted to float)
+* mileage was converted to numeric variable (kmpl was removed from string and then the remaining string was converted to float)
+* engine was converted to numeric variable (CC was removed from string and then the remaining string was converted to integer)
+* max_power was converted to numeric variable (bhp was removed from string and then the remaining string was converted to float)
 * torque column was removed (was difficult to clean)
 * car with unreasonably high mileage was removed
 * name and owner columns were removed (were not used in models)
