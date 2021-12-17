@@ -65,10 +65,10 @@ Before fitting the decision tree model categorical variables were encoded into d
 Since the MLR model's assumptions were rejected its goodness of fit measures were unreliable.
 
 The decision tree model with ten fold cross validation outputted the following results (values are averages of ten folds):
-* train set r-squared = 0.94
-* test set r-squared = 0.91
-* train set rmse = 198821.91
-* test set rmse = 234541.86
+* **train set r-squared** = 0.94
+* **test set r-squared** = 0.91
+* **train set rmse** = 198821.91
+* **test set rmse** = 234541.86
 
 ![](decision_tree_r_squared.png)
 
