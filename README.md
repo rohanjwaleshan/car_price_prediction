@@ -51,9 +51,31 @@ I investigated the linear relationships of the features with the response variab
 ![](pairplot_selling_price.png) ![](correlation_heatmap.png)    ![](scatterplot_max_power_selling_price_transmission.png)
 
 ## Model Development
-For the MLR model it was necessary to check all assumptions before considering the model for deployment. The MLR model rejected both homoscedasticity and normality of errors with and without log/square root transformations of features and log transformation of the response. Below are the plots used to confirm homoscedasticity and normality of errors after log transfomring the response.
+For the first model I trained a **MLR** and split the data into train and test sets with a test size of 25%.
+
+It was necessary to check all assumptions before considering the MLR model for deployment. The MLR model rejected both homoscedasticity and normality of errors with and without log/square root transformations of features and log transformation of the response. Below are the plots used to confirm homoscedasticity and normality of errors after log transfomring the response.
 
 ![](homoscedasticity.png) ![](normality_of_errors.png)
+
+Due to essential assumptions for MLR being rejected I decided to train a non parametric model such as the **decision tree**.
+
+Before fitting the decision tree model categorical variables were encoded into dummy variables. Ten fold cross validation was performed to assess the model's ability to generalize and max_depth was set to 5 to prevent overfitting.
+
+## Model Performance
+Since the MLR model's assumptions were rejected its goodness of fit measures were unreliable.
+
+The decision tree model with ten fold cross validation outputted the following results (values are averages of ten folds):
+* train set r-squared = 0.94
+* test set r-squared = 0.91
+* train set rmse = 198821.91
+* test set rmse = 234541.86
+
+
+
+
+
+
+
 
 
 
