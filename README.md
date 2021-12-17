@@ -103,7 +103,7 @@ Based on the results for the MLR model and the decision tree model, the decision
 * [https://www.autocarindia.com/car-news/top-10-fuel-efficient-diesel-cars-in-india-395465](https://www.autocarindia.com/car-news/top-10-fuel-efficient-diesel-cars-in-india-395465)
 * [https://www.holmesvolvocars.com/volvo-xc90-hybrid-mpg.htm](https://www.holmesvolvocars.com/volvo-xc90-hybrid-mpg.htm)
 
-**Formatting Github Repo**
+**Formatting GitHub Repo**
 * [https://www.youtube.com/watch?v=agHKuUoMwvY](https://www.youtube.com/watch?v=agHKuUoMwvY)
 
 
