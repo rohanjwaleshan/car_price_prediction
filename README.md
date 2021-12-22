@@ -16,14 +16,14 @@
 Dataset from [Kaggle](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=Car+details+v3.csv) consists of information about used cars (8128 cars) from CarDekho (a website where users can sell or purchase cars in India).
 * **name** - name of the car
 * **year** - year the car was purchased
-* **selling_price** - the car's selling price
+* **selling_price** - the car's selling price (in rupees)
 * **km_driven** - number of kilometers the car has driven
 * **fuel** - fuel type (Diesel, Petrol, CNG, LPG)
 * **seller_type** - whether the car was sold by an individual or dealer                
 * **transmission** - the car's gear transmission (Automatic/Manual)
 * **owner** - number of previous owners
 * **mileage** - mileage of the car
-* **engine** - car's engine capacity
+* **engine** - car's engine capacity (CC)
 * **max_power** - max power of engine (bhp)
 * **torque** - car's torque
 * **seats** - number of seats in the car
