@@ -17,7 +17,7 @@ Dataset from [Kaggle](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-car
 * **name** - name of the car
 * **year** - year the car was purchased
 * **selling_price** - the car's selling price
-* **km_driven** - number kilometers the car has driven
+* **km_driven** - number of kilometers the car has driven
 * **fuel** - fuel type (Diesel, Petrol, CNG, LPG)
 * **seller_type** - whether the car was sold by an individual or dealer                
 * **transmission** - the car's gear transmission (Automatic/Manual)
