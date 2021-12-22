@@ -33,7 +33,7 @@ Dataset from [Kaggle](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-car
 ## Data Cleaning/Formatting Variables
 The dataset required cleaning before it could be used in regression models. The following changes to the dataset were made:
 * Rows with missing values were dropped (222 rows)
-* name was formatted to origin (country car originated from, Asia/Europe/North America)
+* name was formatted to origin (country the car originated from, Asia/Europe/North America)
 * fuel was formatted to a variable with two categories (Petrol/Diesel)
 * mileage was converted to numeric variable (kmpl was removed from string and then the remaining string was converted to float)
 * engine was converted to numeric variable (CC was removed from string and then the remaining string was converted to integer)
